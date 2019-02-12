@@ -5,7 +5,7 @@
 
 
 variables:
- - group: b1
+ - group: a - Copy
 
 steps:
 - task: NuGetToolInstaller@0
