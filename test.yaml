@@ -5,7 +5,7 @@
 
 
 variables:
- - group: userperm
+ - group: ankhokha-github
 
 steps:
 - task: NuGetToolInstaller@0
