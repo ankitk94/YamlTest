@@ -5,7 +5,7 @@
 
 
 variables:
- - group: ankhokha-github
+ - group: ankhokha-new
 
 steps:
 - task: NuGetToolInstaller@0
