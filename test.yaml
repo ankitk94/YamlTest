@@ -5,7 +5,7 @@
 
 
 variables:
- - group: New variable group 12-Feb
+ - group: b - Copy
 
 steps:
 - task: NuGetToolInstaller@0
