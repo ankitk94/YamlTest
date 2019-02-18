@@ -5,7 +5,7 @@
 
 
 variables:
- - group: d-on
+ - group: d-off
 
 pool:
   name: ankhokha
