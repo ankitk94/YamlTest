@@ -15,4 +15,3 @@ steps:
   inputs:
       targetType: inline
       script: 'Write-Host $(abc)'
-      
